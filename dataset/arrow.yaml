@@ -1,0 +1,9 @@
+path: /path/to/your/dataset  # Adjust this to your full dataset path
+train: images/train
+val: images/val
+
+names:
+  0: down
+  1: left
+  2: right
+  3: up
